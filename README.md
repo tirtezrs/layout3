@@ -1,22 +1,5 @@
 # tugaslayout3
 
-A new Flutter project.
+![Screenshot 2025-03-16 234708](https://github.com/user-attachments/assets/7c411020-cf93-4db1-a4b5-c5a1f4b0f203)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# tugaslayout
-# layout3
-# layouttugas
-# layout3
-# layout3
-# layout3
+![image](https://github.com/user-attachments/assets/286cb763-8b03-4616-8a6c-bdb2443701c7)
